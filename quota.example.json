@@ -1,0 +1,11 @@
+{
+  "last_rate": {
+    "used_percent": 25,
+    "observed_at": "2026-01-01T00:00:00Z",
+    "resets_at": 1767229200,
+    "window_minutes": 300,
+    "source": "local-json"
+  },
+  "quota_stop_latch": null
+}
+

@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": {
+    ".gitignore": "a45a5f1f5e5ec1b6e368dc315deefe7806bac570b3f23645d861e20c9a481618",
+    "CHANGELOG.md": "83e84daed72f0b1a486a304b5548ac641d92ce2ae22460e0355213532d544da0",
+    "FAQ.md": "f9caf4414d494bce7163956bf08744e5a0147287bea42520c2b40b406a7b8b9c",
+    "Info.plist": "342d2c08a49a1b62e8be9133a0ddde09bd20940404327165c2c1a78e4a53790f",
+    "LICENSE": "37b380d9575c6b9d74cbee10aa28dc8422f9fde1a8c4ae7de6cf74873ca826af",
+    "MacStatus.swift": "007cb5a2b210e169639912aab889755d24b7cfe7aafa7192444db27689cd9326",
+    "PROVENANCE.md": "31cb22122a6076aa905913617c3772dc6c750ef6fcfa77d0106c053f058ae8eb",
+    "README.md": "089b6ec75cdc19dd497246c94a008557cc0ffad4b6d2bb3bba891eb01609e146",
+    "SECURITY.md": "d06b1246dae84eeeb731a384a37c4c672a033ff3b1b8deaf645d68aa22196af1",
+    "TUTORIAL.md": "c730a1ab398ae53c93fe0b8dc416bda0f14a4e9c851612d54f5cdc2f6e5f4650",
+    "WHAT_TO_GIVE_YOUR_AI.md": "78ace738294f07065d6e72945b3837e1ed57be8e917fb2b00f027be1ab130fd2",
+    "build.sh": "2413ceec2ba55e2978dd0bced89d03d3c4ab59611589fe7092eae15f4c302e91",
+    "quota.example.json": "433c1724122cc1c4860344b94ba970deb844a0f3b5011ec73483d190b6e2957b"
+  }
+}
